@@ -34,6 +34,33 @@ Data layer    -------Data Storage-using (MYsql) responsible for creating, updati
               -------Data Synchronization-data stay up-to-date.
               -------Transaction Management-supports transactions in the shop
 ## What are the key functions required of your product/service?
+                              
+Sending E-bill
+easy mobile operation
+Inventory management 
+payment through it 
+sending offers 
 
+Explaination for relations 
+|Sending E-bill impact sending offers because we can use bill as a medium
+for our advertisement of offers and discounts.
+|easy mobile operation(better UI/UX) impacts almost every process that we do using that moblie app.
+it makes every process easy.
+|Inventory management doesnt impacts any other significanty.
+|payment through app make sending E-bill,inventory management easier and automated.
+we can give offers like cash back while paying through app.
+|sending offers impacts payment through app because if we give offer like(10% cash back if you 
+pay through app then a lot will start to pay through the app.
 
+Critical intervention points
+Inventory management -Analyzing inventory levels and turnover rates can reveal areas for optimization,
+                      reducing stockouts, minimizing excess inventory costs, and
+                      improving overall supply chain management.
 Construct ISM for your product/service and identify the hierarchy levels for your product functions
+
+
+Sending E-bill
+easy mobile operation
+Inventory management 
+payment through it 
+sending offers 
